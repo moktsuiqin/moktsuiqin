@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mok Tsui Qin
-- 👀 I’m interested in computer vision and camouflaged object detection 
+- 👀 I’m interested in computer vision field, particularly focusing camouflaged object detection, salient object detection and stable diffusion (image generation).
 - 🌱 I’m currently learning artificial intelligence, machine learning, and deep learning
 - 💞️ I’m looking to collaborate on related AI companies
 - 📫 How to reach me ... Contact me through my email moktsuiqin@hotmail.com
